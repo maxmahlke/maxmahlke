@@ -1,12 +1,13 @@
-### Hi there 👋
+### Hi there 🛰
 
-☄ I'm an astronomer studying the minor bodies of the Solar System.
+I'm an astronomer studying the minor bodies of the Solar System. My repositories
+include several open-source tools for the minor-body community and researchers
+in general.
 
-🔭 I'm searching for a post-doc position following my PhD defense in September 2022.
+### I'm searching for a post-doc position following my PhD defense in September 2022 🔭
 
-📘 Find my work on [arXiv](https://arxiv.org/search/astro-ph?searchtype=author&query=Mahlke%2C+M).
 
-📫 You can find my contact information [here](https://www.oca.eu/en/max-mahlke).
+[arXiv](https://arxiv.org/search/astro-ph?searchtype=author&query=Mahlke%2C+M) | [contact](https://www.oca.eu/en/max-mahlke).
 <!--
 **maxmahlke/maxmahlke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
