@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Find my work on [arXiv](https://arxiv.org/search/astro-ph?searchtype=author&query=Mahlke%2C+M)
+
 <!--
 **maxmahlke/maxmahlke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
