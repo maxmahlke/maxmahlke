@@ -4,7 +4,7 @@ I'm an astronomer studying the minor bodies of the Solar System. My repositories
 include several open-source tools for the minor-body community and researchers
 in general.
 
-### I'm searching for a post-doc position following my PhD defense in September 2022
+### I'm available for a post-doc position following my PhD defense in September 2022
 
 
 [arXiv](https://arxiv.org/search/astro-ph?searchtype=author&query=Mahlke%2C+M) | [cv](https://raw.githubusercontent.com/maxmahlke/maxmahlke/main/docs/mahlke_cv.pdf) | [contact](https://www.oca.eu/en/max-mahlke)
