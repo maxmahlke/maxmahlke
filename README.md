@@ -8,6 +8,7 @@ I'm maintaining a [visualization of the timeline of the asteroid taxonomy](https
 Comments and suggestions are always welcome!
 
 [arXiv](https://arxiv.org/search/astro-ph?searchtype=author&query=Mahlke%2C+M) | [thesis](https://raw.githubusercontent.com/maxmahlke/maxmahlke/main/docs/mahlke_thesis_prior_revision.pdf) | [cv](https://raw.githubusercontent.com/maxmahlke/maxmahlke/main/docs/mahlke_cv.pdf) [contact](https://www.oca.eu/en/max-mahlke)
+
 <!--
 **maxmahlke/maxmahlke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
