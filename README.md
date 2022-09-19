@@ -4,10 +4,10 @@ I'm an astronomer studying the minor bodies of the Solar System. My repositories
 include several open-source tools for the minor-body community and researchers
 in general.
 
-### I'm searching for a post-doc position following my PhD defense in September 2022 🔭
+I'm maintaining a [visualization of the timeline of the asteroid taxonomy](https://raw.githubusercontent.com/maxmahlke/maxmahlke/main/docs/mahlke_taxonomy_timeline.pdf).
+Comments and suggestions are always welcome!
 
-
-[arXiv](https://arxiv.org/search/astro-ph?searchtype=author&query=Mahlke%2C+M) | [cv](https://raw.githubusercontent.com/maxmahlke/maxmahlke/main/docs/mahlke_cv.pdf) [contact](https://www.oca.eu/en/max-mahlke)
+[arXiv](https://arxiv.org/search/astro-ph?searchtype=author&query=Mahlke%2C+M) | [thesis](https://raw.githubusercontent.com/maxmahlke/maxmahlke/main/docs/mahlke_thesis_prior_revision.pdf) | [cv](https://raw.githubusercontent.com/maxmahlke/maxmahlke/main/docs/mahlke_cv.pdf) [contact](https://www.oca.eu/en/max-mahlke)
 <!--
 **maxmahlke/maxmahlke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
