@@ -1,3 +1,4 @@
+<!-- Heavily inspired by https://github.com/rougier/rougier -->
 <p><pre align="center">
 <strong>Max Mahlke |</strong> <a href="https://arxiv.org/search/astro-ph?searchtype=author&query=Mahlke%2C+M">arXiv</a> | <a href="https://raw.githubusercontent.com/maxmahlke/maxmahlke/main/docs/mahlke_thesis.pdf">Thesis</a> | <a href="https://raw.githubusercontent.com/maxmahlke/maxmahlke/main/docs/mahlke_cv.pdf">CV</a> | <a href="https://www.oca.eu/en/max-mahlke">Contact</a>
 </pre></p>
