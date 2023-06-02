@@ -1,6 +1,6 @@
 <!-- Heavily inspired by https://github.com/rougier/rougier -->
 <p><pre align="center">
-<strong>Max Mahlke |</strong> <a href="https://arxiv.org/search/astro-ph?searchtype=author&query=Mahlke%2C+M">arXiv</a> | <a href="https://raw.githubusercontent.com/maxmahlke/maxmahlke/main/docs/mahlke_thesis.pdf">Thesis</a> | <a href="https://raw.githubusercontent.com/maxmahlke/maxmahlke/main/docs/mahlke_cv.pdf">CV</a> | <a href="https://www.oca.eu/en/max-mahlke">Contact</a>
+<strong>Max Mahlke |</strong> <a href="https://arxiv.org/search/astro-ph?searchtype=author&query=Mahlke%2C+M">arXiv</a> | <a href="https://raw.githubusercontent.com/maxmahlke/maxmahlke/main/docs/mahlke_thesis.pdf">Thesis</a> | <a href="https://raw.githubusercontent.com/maxmahlke/maxmahlke/main/docs/mahlke_cv.pdf">CV</a> | <a href="https://www.ias.universite-paris-saclay.fr/annuaire?nom=mahlke">Contact</a>
 </pre></p>
 
 I'm an astronomer studying the minor bodies of the Solar System. My repositories
