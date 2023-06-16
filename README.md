@@ -20,7 +20,7 @@ in general.
 - [fuzzy-ads](https://github.com/maxmahlke/fuzzy-ads) - A command-line interface to NASA ADS <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/maxmahlke/fuzzy-ads?style=social">
 - [mcfa](https://github.com/maxmahlke/mcfa) - A python implementation of *Mixture of Common Factor Analyzers* dimensionality reduction / clustering <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/maxmahlke/mcfa?style=social">
 - [re-research](https://github.com/maxmahlke/re-research) - A TeX publication template focused on reproducible research <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/maxmahlke/re-research?style=social">
-- [Solar-System Orbiter](https://github.com/maxmahlke/SolarSystemOrbiter) - Model implementation of the Solar System including Hohmann transfers between planets <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/maxmahlke/SolarSystemOrbiter?style=social">
+- [Solar-System Orbiter](https://github.com/maxmahlke/SolarSystemOrbiter) - Simulation of Solar System including Hohmann transfers between planets <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/maxmahlke/SolarSystemOrbiter?style=social">
 
 
 <!--
