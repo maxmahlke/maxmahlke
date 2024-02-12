@@ -13,7 +13,7 @@ in general.
 - [classy](https://github.com/maxmahlke/classy) - A python and command-line interface to asteroid reflectance spectra. And it classifies them, too. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/maxmahlke/classy?style=social">
 - [ssos](https://github.com/maxmahlke/ssos) - Pipeline for automatic detection and recovery of minor bodies in astronomical images. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/maxmahlke/ssos?style=social">
 - [mpc](https://github.com/maxmahlke/mpc) - Make local queries to the observations database of the Minor Planet Center. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/maxmahlke/mpc?style=social">
-- [Les Houches Index of Small-Body Tools](https://github.com/maxmahlke/les-houches-small-bodies) - A maintained index of databases, webservices, and software for Asteroids, Comets, and Meteorites <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/maxmahlke/les-houches-small-bodies?style=social">
+- [Les Houches Index of Small-Body Tools](https://github.com/maxmahlke/les-houches-small-bodies) - Maintained index of tools for Asteroids, Comets, and Meteorites <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/maxmahlke/les-houches-small-bodies?style=social">
 - [Timeline of the asteroid taxonomy](https://raw.githubusercontent.com/maxmahlke/maxmahlke/main/docs/mahlke_taxonomy_timeline.pdf)
 
 ## General
