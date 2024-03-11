@@ -7,6 +7,10 @@ I'm an astronomer studying the minor bodies of the Solar System. My repositories
 include several open-source tools for the minor-body community and for researchers
 in general.
 
+**I'm available for PostDoc starting December 2024. Please do not hesitate to
+get in touch should you or someone you know offer a position that may apply to
+my research profile.**
+
 ## Minor Bodies
 
 - [rocks](https://github.com/maxmahlke/rocks) - A python and command-line interface to all kinds of asteroid data except for reflectance spectra. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/maxmahlke/rocks?style=social">
